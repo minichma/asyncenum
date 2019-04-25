@@ -1,3 +1,7 @@
+This is a fun project I did a couple of years ago (actually in 2011) on Codeplex when `async`/`await` was introduced in C#. I moved it to GitHub after CodePlex was closed. It's not maintained and it gets obsolete with introduction of async streams in C# 8 at the latest.
+
+The rest of this README is the original text from 2011 - read it like that! It's fun to see though, how close this is to what comes with C# 8 in 2019.
+
 C# `async`/`await` opens up a whole new world of possibilities to C# developers but unfortunately it doesn't integrate with `yield return` (yet). This lib introduces the `IAsyncEnumerable<T>` interface along with libs and simple LINQ integration which attempt to easen the pain.
 
 Since C# 2.0 we can use the `yield return` keywords to write iterator functions like the following:
