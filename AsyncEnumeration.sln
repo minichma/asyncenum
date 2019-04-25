@@ -7,27 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncEnumerationTest", "Asy
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2EE0C0C3-715B-45BA-87A4-5DF0865A617D}"
 	ProjectSection(SolutionItems) = preProject
-		ConsoleApplication3.vsmdi = ConsoleApplication3.vsmdi
 		Local.testsettings = Local.testsettings
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs34
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = AsyncEnumeration\\AsyncEnumeration.csproj
-		SccProjectName1 = AsyncEnumeration
-		SccLocalPath1 = AsyncEnumeration
-		SccProjectUniqueName2 = AsyncEnumerationTest\\AsyncEnumerationTest.csproj
-		SccProjectName2 = AsyncEnumerationTest
-		SccLocalPath2 = AsyncEnumerationTest
-	EndGlobalSection
-	GlobalSection(TestCaseManagementSettings) = postSolution
-		CategoryFile = ConsoleApplication3.vsmdi
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|Mixed Platforms = Debug|Mixed Platforms
